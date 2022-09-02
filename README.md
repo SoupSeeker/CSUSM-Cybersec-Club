@@ -2,7 +2,7 @@
 General Repo for Cybersecurity Club - Fall 2022
 
 - Meetings are generally 12-2 on Tuesdays
-- We try to record any meetings and they should be posted into this repo under recordings
+- We try to record any meetings and they should be posted into this repo
 
 
 ## Hey, here's some info to get started
