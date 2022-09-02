@@ -18,4 +18,5 @@ principles outlined by NSPE, and our university.
 - Whether you use Firefox, Chrome, or whatever it sometimes helps have extensions for managing cookies and switching user-agent easily
 - Become familiar with CyberChef, this tool is amazing and I use it for everything 
 - Check https://github.com/trailofbits/ctf for information on various CTF topics / challenges
+- Read through some CVE reports at https://github.com/CVEProject many CTF challenges feature recent CVE releases
 - Always check ctftime.org for upcoming challenges, most are free and open to public, experience is the greatest teacher in this field
